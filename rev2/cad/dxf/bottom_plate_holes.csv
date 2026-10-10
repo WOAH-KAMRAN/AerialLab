@@ -1,0 +1,33 @@
+n,x,y,dia,use
+1,14.00,-24.00,3.20,nose frame
+2,14.00,24.00,3.20,nose frame
+3,90.00,-27.00,3.20,frame
+4,90.00,27.00,3.20,frame
+5,170.00,-27.00,3.20,frame
+6,170.00,27.00,3.20,frame
+7,250.00,-27.00,3.20,frame
+8,250.00,27.00,3.20,frame
+9,330.00,-27.00,3.20,frame
+10,330.00,27.00,3.20,frame
+11,409.00,-22.00,3.20,rear bulkhead
+12,409.00,22.00,3.20,rear bulkhead
+13,12.00,-16.00,3.20,trike nose
+14,12.00,16.00,3.20,trike nose
+15,28.00,-16.00,3.20,trike nose
+16,28.00,16.00,3.20,trike nose
+17,260.00,-22.00,3.20,trike main
+18,260.00,22.00,3.20,trike main
+19,280.00,-22.00,3.20,trike main
+20,280.00,22.00,3.20,trike main
+21,175.00,-22.00,3.20,taildragger main
+22,175.00,22.00,3.20,taildragger main
+23,195.00,-22.00,3.20,taildragger main
+24,195.00,22.00,3.20,taildragger main
+25,210.00,-8.00,3.20,battery tray
+26,210.00,8.00,3.20,battery tray
+27,270.00,-8.00,3.20,battery tray
+28,270.00,8.00,3.20,battery tray
+29,30.00,-8.00,3.20,battery tray
+30,30.00,8.00,3.20,battery tray
+31,90.00,-8.00,3.20,battery tray
+32,90.00,8.00,3.20,battery tray

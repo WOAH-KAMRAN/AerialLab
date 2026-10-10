@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# preview meshes and render scratch (model.py preview / render.py)
+**/build/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# slicer output (machine-specific)
+*.gcode
+*.3mf
